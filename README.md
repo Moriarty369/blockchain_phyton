@@ -1,4 +1,4 @@
-#🚀 AAcoin Blockchain Project
+## 🚀 AAcoin Blockchain Project
 
 ![Blockchain](https://img.shields.io/badge/Blockchain-Python-blue)
 ![Flask](https://img.shields.io/badge/Flask-Framework-orange)
@@ -85,6 +85,9 @@ To add a new transaction, make a POST request to `/post_transaction` with the tr
 ## 🧑‍💻 Author
 Created by **Abelardo Acosta Cracco with SuperDatScienceTeam Udemy:  https://www.udemy.com/course/blockchain-de-la-a-a-la-z-crea-tu-criptomoneda-en-python/**.
 
+
+
+________________________________________________________________________
 
 # Español:
 ## 🚀 AAcoin Blockchain Project
