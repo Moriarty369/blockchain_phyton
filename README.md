@@ -138,7 +138,7 @@ The smart contract `aacoin.sol` was developed in Solidity and manages the logic 
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your_username/your_repository.git
+    git clone https://github.com/Moriarty369/phyton_blockchain.git
     cd your_repository
     ```
 
@@ -228,7 +228,7 @@ El contrato inteligente `aacoin.sol` fue desarrollado en Solidity y gestiona la 
 
 1. **Clonar el repositorio:**
     ```bash
-    git clone https://github.com/tu_usuario/tu_repositorio.git
+    git clone https://github.com/Moriarty369/phyton_blockchain.git
     cd tu_repositorio
     ```
 
